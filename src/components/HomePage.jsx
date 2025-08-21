@@ -52,7 +52,7 @@ const HomePage = () => {
             </div>
           ) : (
             <>
-              <Link to="/login"><button>Loginnnnnnnnnnnn</button></Link>
+              <Link to="/login"><button>Sign In</button></Link>
               <Link to="/signup"><button>Sign Up</button></Link>
             </>
           )}
